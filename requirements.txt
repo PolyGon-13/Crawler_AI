@@ -1,0 +1,6 @@
+aiohttp==3.10.5
+asyncio==3.4.3
+nest-asyncio==1.6.0
+gradio==4.44.0
+openai==1.50.2
+newspaper3k==0.2.8
